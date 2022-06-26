@@ -1,2 +1,2 @@
 # Bank-system
-My first "bigger" project
+My first "bigger" c++ project
